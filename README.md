@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsol25
-- 👀 I’m interested in becomeing a software engineering.
-- 🌱 I’m currently learning html, css, javascript & python.
+- 👀 I'm a Front End Developer seeking new opportunities.
+- 🌱 Functional experiance with HTML, CSS, javaScript and Python.
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me jsol25@protonmail.com
 
