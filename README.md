@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsol25
 - 👀 I'm a Front End Developer seeking new opportunities.
-- 🌱 Functional experiance with HTML, CSS, javaScript and Python.
+- 🌱 Functional experience with html, css, javascript and python.
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me jsol25@protonmail.com
 
